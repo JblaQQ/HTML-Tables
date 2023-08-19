@@ -1,0 +1,20 @@
+table {
+    width: 30%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    padding: 10px;
+}
+table,td,th {
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    font-size: 25px;
+}
+td{
+    padding-left: 8px;
+    padding: 10px;
+}
+.pip{
+    padding: 8px;
+}
